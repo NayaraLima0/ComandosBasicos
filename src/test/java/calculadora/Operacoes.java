@@ -2,8 +2,8 @@ package calculadora;
 
 public class Operacoes {
 
-	public void soma(int x1, int x2) {
-		int resultado = x1 + x2;
+	public void soma(int x1, int x2, int x3) {
+		int resultado = x1 + x2 + x3;
 		System.out.println("o resultado da soma é " + resultado);
 		
 	}

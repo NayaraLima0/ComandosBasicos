@@ -8,7 +8,7 @@ public class Calculo {
 		
 		Operacoes operacoes = new Operacoes();
 		
-		 operacoes.soma(50, 30);
+		 operacoes.soma(50, 30, 10);
 		 
 		 operacoes.divisao(15, 3);
 		 
